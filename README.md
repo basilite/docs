@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://basilite.netlify.app/"><kbd> <br> View <br> </kbd></a>
+  <a href="https://docs-basilite.netlify.app/"><kbd> <br> View <br> </kbd></a>
   <a href=""><kbd> <br> Install <br> </kbd></a>
   <a href=""><kbd> <br> Quick Start <br> </kbd></a>
   <a href=""><kbd> <br> Contributing <br> </kbd></a>
